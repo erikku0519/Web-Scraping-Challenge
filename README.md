@@ -13,7 +13,7 @@ PART 1: Logic for Web App: Initial Scrapping: mission_to_mars.ipynb<br>
 
 PART 2: Web App: Application and MongoDB<br>
 
-Step 1: Convert mission_to_mars.ipynb to scrape_mars.py to put all the scarapped ata into a single Python dictionary.<br>
+Step 1: Convert mission_to_mars.ipynb to scrape_mars.py to put all the scarapped data into a single Python dictionary.<br>
 Step 2: Use /scrape route to import Python script and enable scrapping of data<br>
 Step 3: Use PyMongo to create a new database and collection to store the scrapped data.<br>
 Step 4: Create a root 
