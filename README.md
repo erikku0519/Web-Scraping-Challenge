@@ -4,4 +4,4 @@ In this exercise, I guilt an web application that scrapes data from five differe
 
 STEP 1: Scrapping<br>
 
-Step 2: MongoDB and Flask Application<br>
+STEP 2: MongoDB and Flask Application<br>
